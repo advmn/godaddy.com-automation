@@ -1,4 +1,4 @@
-package godaddyautomation.tests;
+package godaddyautomation.tests.browseractions;
 
 import godaddyautomation.utilities.WebDriverFactory;
 import org.openqa.selenium.WebDriver;
